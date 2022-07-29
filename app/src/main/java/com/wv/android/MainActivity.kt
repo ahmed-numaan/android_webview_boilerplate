@@ -1,4 +1,4 @@
-package com.loreal.pda
+package com.wv.android
 
 //import androidx.core.content.ContextCompat
 
@@ -13,7 +13,6 @@ import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-
 
 class MainActivity : AppCompatActivity() {
 

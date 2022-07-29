@@ -1,4 +1,4 @@
-package com.loreal.pda
+package com.wv.android
 
 import android.content.Intent
 import android.os.Bundle

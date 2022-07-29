@@ -1,4 +1,4 @@
-package com.loreal.pda
+package com.wv.andriod
 
 import org.junit.Test
 
